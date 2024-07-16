@@ -10,4 +10,4 @@ function taskBlock(trueOrFalse) {
     return [task, task2];
 }
 
-module.exports = { taskFirst, getLast, taskNext };
+module.exports = { taskBlock };
