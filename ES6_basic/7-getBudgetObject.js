@@ -1,3 +1,1 @@
-function getBudgetObject(income, gdp, capita) {return { income, gdp, capita };}
-
-module.exports = getBudgetObject;
+function getBudgetObject(income, gdp, capita) { return { income, gdp, capita }; } module.exports = getBudgetObject;
