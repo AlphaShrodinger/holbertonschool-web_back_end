@@ -4,7 +4,6 @@ function getBudgetObject(income, gdp, capita) {
         gdp,
         capita,
     };
-
 }
 
 module.exports = getBudgetObject;
