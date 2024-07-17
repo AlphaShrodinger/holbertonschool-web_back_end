@@ -1,10 +1,10 @@
 function getBudgetObject(income, gdp, capita) {
-    const budget = {
+    return {
         income,
         gdp,
         capita,
     };
-    return budget;
+
 }
 
 module.exports = getBudgetObject;
