@@ -1,4 +1,4 @@
-function appendToEachArrayValue(array, appendString) {
+export default function appendToEachArrayValue(array, appendString) {
     const newarray = [];
     for (const value of array) {
         newarray.push(appendString + value);
@@ -6,4 +6,3 @@ function appendToEachArrayValue(array, appendString) {
     return newarray;
 }
 
-module.exports = appendToEachArrayValue;
