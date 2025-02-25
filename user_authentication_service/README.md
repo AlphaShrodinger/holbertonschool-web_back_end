@@ -10,6 +10,7 @@ And at the end of this project, you should be able to explain core web design co
 - How to return various HTTP status codes
 
 ### Project Requirements
+
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.9)
 - All your files should end with a new line
@@ -28,6 +29,7 @@ And at the end of this project, you should be able to explain core web design co
 - Only public methods of Auth and DB should be used outside these classes
 
 ### Tools
+
 - **Python**
 - **bcrypt**
 - **API**
